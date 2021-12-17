@@ -1,0 +1,13 @@
+E:\DotNet Apps\NumberGuess\bin\Debug\netcoreapp3.1\NumberGuess.exe
+E:\DotNet Apps\NumberGuess\bin\Debug\netcoreapp3.1\NumberGuess.deps.json
+E:\DotNet Apps\NumberGuess\bin\Debug\netcoreapp3.1\NumberGuess.runtimeconfig.json
+E:\DotNet Apps\NumberGuess\bin\Debug\netcoreapp3.1\NumberGuess.runtimeconfig.dev.json
+E:\DotNet Apps\NumberGuess\bin\Debug\netcoreapp3.1\NumberGuess.dll
+E:\DotNet Apps\NumberGuess\bin\Debug\netcoreapp3.1\NumberGuess.pdb
+E:\DotNet Apps\NumberGuess\obj\Debug\netcoreapp3.1\NumberGuess.csprojAssemblyReference.cache
+E:\DotNet Apps\NumberGuess\obj\Debug\netcoreapp3.1\NumberGuess.AssemblyInfoInputs.cache
+E:\DotNet Apps\NumberGuess\obj\Debug\netcoreapp3.1\NumberGuess.AssemblyInfo.cs
+E:\DotNet Apps\NumberGuess\obj\Debug\netcoreapp3.1\NumberGuess.csproj.CoreCompileInputs.cache
+E:\DotNet Apps\NumberGuess\obj\Debug\netcoreapp3.1\NumberGuess.dll
+E:\DotNet Apps\NumberGuess\obj\Debug\netcoreapp3.1\NumberGuess.pdb
+E:\DotNet Apps\NumberGuess\obj\Debug\netcoreapp3.1\NumberGuess.genruntimeconfig.cache
